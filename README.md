@@ -98,7 +98,7 @@ adb install -r RM-Performance-Watch.apk
 1. Abra **RM Performance** no relógio: aparece um **código de 6 números** (vale 10 minutos).
 2. No celular (app ou site), vá em **Perfil → Relógio**, digite o código e toque em **Continuar**. Confira o nome do relógio e pronto: em instantes ele abre o seu treino.
 
-> Para atualizar o relógio, repita o passo 2 com o APK novo: a conta continua conectada. Depois de instalar, pode desligar a depuração sem fio (economiza bateria).
+> **Para atualizar o relógio:** quando sai versão nova, o próprio relógio mostra o card **Atualização** na tela inicial. Toque em **Baixar no celular**: o APK novo abre no celular pareado. Depois, instale por cima pelo Wear Installer, como no passo 2. A conta continua conectada. Depois de instalar, pode desligar a depuração sem fio para economizar bateria.
 
 ### iPhone, computador e tablet
 
@@ -116,6 +116,7 @@ No iPhone, toque em **Compartilhar → Adicionar à Tela de Início** para abrir
 - Quando termina, abre o instalador do Android. Na **primeira** atualização ele pede para permitir que o RM Performance instale atualizações; depois é só tocar em **Atualizar**.
 - O app confere o arquivo antes de instalar, e o Android só aceita a atualização assinada pela RM.
 - **Agora não** adia o aviso por algumas horas. Nada se perde: seus dados ficam na sua conta.
+- **No relógio**, a instalação não é automática, porque o Wear OS não tem instalador de arquivos. O relógio avisa com o card **Atualização** e abre o download no celular, e você instala com o Wear Installer ([passo a passo](#relógio-wear-os)).
 
 ---
 
